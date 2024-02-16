@@ -1,0 +1,70 @@
+$background: rgba(242, 228, 223, 0.5);
+$border: rgba(242, 136, 145, 1);
+$text: gray;
+
+* {
+  background-color: transparent;
+}
+
+window {
+  margin: 0px;
+  border: 1px solid $border;
+  background-color: $background;
+  font-family: Sarasa mono J;
+  font-weight: bold;
+  // border-radius: 20px;
+}
+
+#input {
+  margin: 5px;
+  border: none;
+  color: $text;
+  background-color: $background;
+  // border-radius: 20px;
+}
+
+#inner-box {
+  margin: 5px;
+  border: none;
+  background-color: transparent;
+  // background-color: $background;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+#outer-box {
+  margin: 5px;
+  border: none;
+  background-color: $background;
+  // border-radius: 20px;
+  overflow: hidden;
+}
+
+#text {
+  margin: 5px;
+  border: none;
+  color: $text;
+}
+
+#entry:focus {
+  border-radius: 20px;
+}
+
+#entry:selected {
+  background-color: $background;
+  color: $text;
+  border-radius: 20px;
+}
+
+#entry {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  background-color: $background;
+  border-radius: 20px;
+}
+
+#scroll {
+  overflow: hidden;
+  border-radius: 20px;
+  // margin-bottom: 8px;
+}

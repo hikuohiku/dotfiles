@@ -1,0 +1,61 @@
+* {
+  background-color: transparent;
+}
+
+window {
+  margin: 0px;
+  border: 1px solid rgb(242, 136, 145);
+  background-color: rgba(242, 228, 223, 0.5);
+  font-family: Sarasa mono J;
+  font-weight: bold;
+}
+
+#input {
+  margin: 5px;
+  border: none;
+  color: gray;
+  background-color: rgba(242, 228, 223, 0.5);
+}
+
+#inner-box {
+  margin: 5px;
+  border: none;
+  background-color: transparent;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+#outer-box {
+  margin: 5px;
+  border: none;
+  background-color: rgba(242, 228, 223, 0.5);
+  overflow: hidden;
+}
+
+#text {
+  margin: 5px;
+  border: none;
+  color: gray;
+}
+
+#entry:focus {
+  border-radius: 20px;
+}
+
+#entry:selected {
+  background-color: rgba(242, 228, 223, 0.5);
+  color: gray;
+  border-radius: 20px;
+}
+
+#entry {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  background-color: rgba(242, 228, 223, 0.5);
+  border-radius: 20px;
+}
+
+#scroll {
+  overflow: hidden;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,159 @@
+[10887:10887:0213/215838.589730:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/220443.601316:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/220444.006022:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://vivaldi-webui/startpage". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[10887:10887:0213/220550.789073:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/220608.153660:ERROR:extension_host.cc(429)] Received EventAck for extension bolggfoncklhniejomgplkjcllmnonbh for an unknown event.
+[10887:10887:0213/220608.153683:ERROR:extension_host.cc(429)] Received EventAck for extension bolggfoncklhniejomgplkjcllmnonbh for an unknown event.
+[10887:10887:0213/220608.153732:ERROR:extension_host.cc(429)] Received EventAck for extension bolggfoncklhniejomgplkjcllmnonbh for an unknown event.
+[10887:10887:0213/220608.153770:ERROR:extension_host.cc(429)] Received EventAck for extension bolggfoncklhniejomgplkjcllmnonbh for an unknown event.
+[10887:10887:0213/220608.153873:ERROR:extension_host.cc(429)] Received EventAck for extension bolggfoncklhniejomgplkjcllmnonbh for an unknown event.
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[10887:10887:0213/223036.225730:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/223054.749366:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/223116.303006:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Icon not found", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[10887:10887:0213/223116.303097:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Icon not found", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[10887:10887:0213/223116.339651:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Icon not found", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[10887:10887:0213/223121.741061:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Icon not found", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[10887:10887:0213/224114.892898:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/224115.298855:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://vivaldi-webui/startpage". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[10967:10967:0213/224232.483143:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.363655:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.363970:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.364167:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.364438:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.364675:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+[10887:10949:0213/225748.368985:ERROR:cast_media_route_provider.cc(365)] sent sink updates
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.437398:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.537829:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.637591:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.738105:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.838033:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225748.938097:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.038174:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.138341:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.238486:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.338493:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.438631:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.538681:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.641353:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.945072:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.946581:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.947913:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.948318:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/225749.948596:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+[10887:10887:0213/225805.030885:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/225805.433577:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://vivaldi-webui/startpage". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[10887:10887:0213/225913.734469:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10887:10887:0213/230314.518445:ERROR:CONSOLE(242)] "<webview>: Script cannot be injected into content until the page has loaded.", source: extensions::webView (242)
+[10967:10967:0213/230621.386955:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10887:10887:0213/230622.685183:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685202:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685219:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685244:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685254:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685272:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.685312:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10887:0213/230622.686447:ERROR:extension_host.cc(429)] Received EventAck for extension jffbochibkahlbbmanpmndnhmeliecah for an unknown event.
+[10887:10949:0213/230622.869917:ERROR:cast_media_route_provider.cc(365)] sent sink updates
+[10887:10949:0213/230622.872144:ERROR:cast_media_route_provider.cc(365)] sent sink updates
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.877141:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.877453:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.877685:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.877866:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.878065:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230622.960480:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.042896:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.143001:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.243163:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.343299:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.443476:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.543567:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.643704:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.743774:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+src/gbm_drv_common.c:57: GBM-DRV error (get_bytes_per_component): Unknown or not supported format: 538982482
+
+[10967:11088:0213/230623.843917:ERROR:gbm_pixmap_wayland.cc(82)] Cannot create bo with format= R_8 and usage=SCANOUT_CPU_READ_WRITE
+[10967:10967:0213/231024.909009:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10887:10949:0213/231040.703378:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+[10887:10949:0213/231040.887657:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+[10887:10949:0213/231424.301005:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+[10967:10967:0213/231447.584427:ERROR:shared_context_state.cc(984)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_GUILTY_CONTEXT_RESET_KHR
+[10967:10967:0213/231447.584631:ERROR:gpu_service_impl.cc(1154)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[10887:10887:0213/231447.598225:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=8704
+Gdk-Message: 23:29:25.099: Error reading events from display: Broken pipe
