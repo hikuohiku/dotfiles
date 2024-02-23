@@ -1,0 +1,26 @@
+## antigen setting
+export ADOTDIR=$ZDOTDIR/.antigen
+export _ANTIGEN_INSTALL_DIR=${ADOTDIR}
+
+source ${_ANTIGEN_INSTALL_DIR}/antigen.zsh
+
+# Load the oh-my-zsh's library
+antigen use oh-my-zsh
+
+# Bundles from the default repo (robbyrussell's oh-my-zsh)
+antigen bundle git
+
+# Syntax highlighting bundle.
+antigen bundle zsh-users/zsh-syntax-highlighting
+# Fish-like auto suggestions
+antigen bundle zsh-users/zsh-autosuggestions
+# Extra zsh completions
+antigen bundle zsh-users/zsh-completions
+# z
+antigen bundle rupa/z z.sh
+# abbr
+antigen bundle olets/zsh-abbr@main
+
+
+# Tell antigen that you're done
+antigen apply
