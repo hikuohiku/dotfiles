@@ -8,10 +8,16 @@ import = [
 # shell
 shell = "/bin/zsh"
 
+# window
+[window]
+padding = { x = 10, y = 10 }
+
 # font
 [font]
-normal = { family = "Sarasa Mono J", style = "SemiBold" }
-size = 16
+normal = { family = "Sarasa Fixed J", style = "SemiBold" }
+size = 14
+# offset = { x = 1, y = 1 }
+# glyph_offset = { x = 0, y = 0 }
 builtin_box_drawing = false
 
 # color
