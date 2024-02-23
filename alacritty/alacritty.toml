@@ -1,0 +1,29 @@
+## alacritty configuration
+
+# theme
+import = [
+  "~/.config/alacritty/themes/ayu_light.toml"
+]
+
+# shell
+shell = "/bin/zsh"
+
+# font
+[font]
+normal = { family = "Sarasa Mono J", style = "SemiBold" }
+size = 16
+builtin_box_drawing = false
+
+# color
+[colors]
+cursor = { text = "CellForeground" ,cursor = "#FFAA33" }
+vi_mode_cursor = { text = "CellForeground", cursor = "#FFAA33" }
+draw_bold_text_with_bright_colors = true
+
+# cursor
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+vi_mode_style.shape = "Block"
+blink_interval = 500
+blink_timeout = 0
+unfocused_hollow = false
