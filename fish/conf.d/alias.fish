@@ -2,7 +2,7 @@ alias pbcopy='xclip -selection c'
 alias pbpaste='xclip -selection c -o'
 alias ls='ls -F --color=auto'
 alias l='ls -lah'
-abbr --add c 'code . --ozone-platform-hint=wayland --enable-wayland-ime'
+abbr --add c 'code'
 abbr --add v 'nvim'
 abbr --add vim 'nvim'
 abbr --add zl 'zellij'
@@ -20,3 +20,7 @@ abbr --add gcm 'git commit'
 abbr --add gmg 'git merge'
 abbr --add gpsh 'git push'
 abbr --add lg 'lazygit'
+
+function code
+  command code $argv --ozone-platform-hint=wayland --enable-wayland-ime
+end
