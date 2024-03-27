@@ -64,7 +64,7 @@ window#waybar {
 }
 
 #clock {
-  margin-right: 0;
+  margin-right: 5px;
 }
 
 #workspaces button:hover {
